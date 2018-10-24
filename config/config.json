@@ -1,0 +1,5 @@
+{
+    "port" : 3700,
+    "notFound" : {"status" : "No se encuentra esta ruta, comprueba todas las rutas disponibles en -> http://localhost:3700/urls"},
+    "dummyJson" : "./dummy.json"
+}

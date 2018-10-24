@@ -1,0 +1,11 @@
+[{
+    "route"    : "/example",
+    "dummy"   : { "resp" : "exmaple" },
+    "status"  : 200
+},
+{
+    "route"    : "/error",
+    "dummy"   : { "resp" : "KO" },
+    "status"  : 400,
+    "description": "opcional, dummy for error"
+}]
